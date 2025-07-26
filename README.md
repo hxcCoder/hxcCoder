@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Benjamin Millalonco  
+# 👋 ¡Hola! Soy Benjamin
 ### Automatizador low-code | n8n + IA | Creador de soluciones prácticas
 
 ---
