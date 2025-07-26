@@ -32,14 +32,14 @@ Mi enfoque es simple: **automatizar tareas repetitivas, ahorrar tiempo y entrega
 ### 🧠 Asistente Inteligente con IA + Google Sheets + n8n  
 Formulario web que recibe datos de usuarios, los guarda automáticamente en Google Sheets, genera respuestas con IA y las envía por correo.  
 🛠️ Tecnologías: n8n · OpenAI · Google Sheets · HTML/CSS/JS  
-🔗 [Ver repositorio](https://github.com/tuusuario/formulario-inteligente)
+🔗 [Ver repositorio]([https://github.com/hxcCoder/Asistente-de-Atencion-al-Cliente-con-IA-y-Automatizacion-n8n-y-OpenAi])
 
 ---
 
 ### 📊 Dashboard conectado a Google Sheets  
 Una interfaz web conectada con n8n que muestra datos actualizados desde Google Sheets, generados por formularios en tiempo real.  
 🛠️ Tecnologías: JavaScript · HTML · CSS · Webhook · n8n  
-🔗 [Ver repositorio](https://github.com/tuusuario/dashboard-formularios)
+🔗 [Ver repositorio]([https://github.com/hxcCoder/AI_Dashboard_Automatizacion_con_n8n_IA_y_Google_Sheets])
 
 ---
 
