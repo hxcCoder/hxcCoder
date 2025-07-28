@@ -39,7 +39,7 @@ Formulario web que recibe datos de usuarios, los guarda automáticamente en Goog
 ### 📊 Dashboard conectado a Google Sheets  
 Una interfaz web conectada con n8n que muestra datos actualizados desde Google Sheets, generados por formularios en tiempo real.  
 🛠️ Tecnologías: JavaScript · HTML · CSS · Webhook · n8n  
-🔗 [Ver repositorio](https://github.com/hxcCoder/Asistente-de-Atencion-al-Cliente-con-IA-y-Automatizacion-n8n-y-OpenAi)
+🔗 [Ver repositorio](https://github.com/hxcCoder/Dashboard_Automatizacion_con_n8n_y_Google_Sheets)
 
 ---
 
