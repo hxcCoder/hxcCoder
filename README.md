@@ -44,7 +44,8 @@ Una interfaz web conectada con n8n que muestra datos actualizados desde Google S
 ---
 
 ### 📊 Ai-Dashboard conectado a Google Sheets  
-Una interfaz web conectada con n8n que muestra datos actualizados desde Google Sheets, generados por formularios en tiempo real, y notifica con gmail o alguna otra plataforma.
+Este proyecto automatiza la recepción de formularios web, genera respuestas inteligentes con OpenAI, guarda los datos en Google Sheets y los muestra en un dashboard visual. Ideal para freelancers, negocios pequeños o agencias que quieren optimizar su atención al cliente sin costos de SaaS.
+
 🛠️ Tecnologías: JavaScript · HTML · CSS · Webhook · n8n  
 🔗 [Ver repositorio](https://github.com/hxcCoder/ai_dashboard_automation)
 
