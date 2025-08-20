@@ -43,13 +43,13 @@ Formulario web que recibe datos de usuarios, los guarda automáticamente en Goog
 ---
 ### 🚀 Asistente de tareas full-stack
 Un gestor de tareas avanzado construido con las tecnologías más modernas del desarrollo web
-🔗 [Ver repositorio](https://github.com/hxcCoder/task-manager-pro)
+
 🛠️ Tecnologías:
 ![Next.js](https://img.shields.io/badge/Next.js-14.2.5-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
+🔗 [Ver repositorio](https://github.com/hxcCoder/task-manager-pro)
 ---
 
 ### 📊 Ai-Dashboard conectado a Google Sheets  
