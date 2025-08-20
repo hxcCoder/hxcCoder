@@ -42,8 +42,7 @@ Formulario web que recibe datos de usuarios, los guarda automáticamente en Goog
 
 ---
 # 🚀 Asistente de tareas full-stack
-
-**Un gestor de tareas avanzado construido con las tecnologías más modernas del desarrollo web**
+Un gestor de tareas avanzado construido con las tecnologías más modernas del desarrollo web
 🔗 [Ver repositorio](https://github.com/hxcCoder/task-manager-pro)
 
 ![Next.js](https://img.shields.io/badge/Next.js-14.2.5-black?style=for-the-badge&logo=next.js&logoColor=white)
