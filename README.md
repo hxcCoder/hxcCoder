@@ -41,7 +41,7 @@ Formulario web que recibe datos de usuarios, los guarda automáticamente en Goog
 🔗 [Ver repositorio](https://github.com/hxcCoder/Asistente-de-Atencion-al-Cliente-con-IA-y-Automatizacion-n8n-y-OpenAi)
 
 ---
-# 🚀 Asistente de tareas full-stack
+### 🚀 Asistente de tareas full-stack
 Un gestor de tareas avanzado construido con las tecnologías más modernas del desarrollo web
 🔗 [Ver repositorio](https://github.com/hxcCoder/task-manager-pro)
 
