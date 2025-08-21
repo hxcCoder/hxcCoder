@@ -39,7 +39,7 @@ Me apasiona construir **sistemas que transforman datos en decisiones**: desde pi
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,docker,mysql,postgresql,git,github,linux,vscode,django,nextjs,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,react,docker,mysql,postgresql,git,github,linux,vscode,django,nextjs,tailwind,html,css,php" /><br/>
   <img src="https://skillicons.dev/icons?i=gcp" /> 
 </p>
 
