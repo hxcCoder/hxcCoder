@@ -32,7 +32,7 @@ Me apasiona construir **sistemas que transforman datos en decisiones**: desde pi
 *Modelado de datos, consultas SQL y análisis con Pandas para optimización logística*  
 
 🔹 [**Business Automation Dashboard**](https://github.com/hxcCoder/business-automation-dashboard)  
-*Dashboard interactivo con next.js y tailwind para automatización de negocios con integración de IA*  
+*Dashboard interactivo con Next.js y Typescript para automatización de negocios con integración de IA*  
 
 ---
 
