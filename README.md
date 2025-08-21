@@ -10,7 +10,7 @@
 💡 **Automation Developer | Data & AI Integrator**  
 📍 Chile | 🌐 Enfocado en **soluciones de automatización, ETL, APIs e integración de IA**.  
 
-Me apasiona construir **sistemas que transforman datos en decisiones**: desde pipelines en la nube hasta dashboards interactivos para negocios.  
+Me apasiona construir **sistemas**: desde pipelines en la nube hasta dashboards interactivos para negocios.  
 
 ---
 
