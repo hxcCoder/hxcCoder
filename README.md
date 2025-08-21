@@ -25,7 +25,7 @@ Me apasiona construir **sistemas que transforman datos en decisiones**: desde pi
 
 ## 🏆 Proyectos Destacados
 
-🔹 [**Global Weather Data Pipeline**](https://github.com/hxcCoder/global-weather-pipeline)  
+🔹 [**Global Weather Data Pipeline**](https://github.com/hxcCoder/Pipeline-de-Datos-de-Clima-Global)  
 *ETL en Python con API de clima → Google BigQuery → Dashboard en Power BI*  
 
 🔹 [**Análisis Logística con Python + SQL**](https://github.com/hxcCoder/analisis-logistica-python)  
