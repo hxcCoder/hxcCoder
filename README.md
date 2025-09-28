@@ -55,8 +55,8 @@ Me apasiona construir **sistemas**: desde pipelines en la nube hasta dashboards 
 
 ## 📫 Conecta conmigo
 
-- 💼 LinkedIn: [linkedin.com/in/tu-linkedin](https://linkedin.com)  
-- 📧 Email: **benjamin.tucorreo@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/benjamin-millalonco](www.linkedin.com/in/benjamin-millalonco)  
+- 📧 Email: **benjaminmillalonc@gmail.com**  
 - 🌐 Portafolio: *en construcción*  
 
 ---
