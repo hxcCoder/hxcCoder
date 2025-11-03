@@ -15,11 +15,11 @@ Me apasiona construir **sistemas**: desde pipelines en la nube hasta dashboards 
 ---
 
 ## 🚀 Lo que hago
-- 🔌 **Automatización de procesos** con **n8n, Python y APIs**.  
-- 🗄️ **Bases de datos y SQL** → modelado, queries complejas, optimización.  
-- ☁️ **Data Pipelines en la nube** (Google BigQuery, Docker, ETL).  
-- 📊 **Dashboards y reporting** con **Power BI / React**.  
-- 🤖 **Integración con IA** → OpenAI, asistentes inteligentes para negocios.  
+- 🔌 **Automatización de procesos**: con **n8n, Python y APIs**.  
+- 🗄️ **Bases de datos y SQL**: → modelado, queries complejas, optimización.  
+- ☁️ **Data Pipelines en la nube**: (Google BigQuery, Docker, ETL).  
+- 📊 **Dashboards y reporting**: con **Power BI / React**.  
+- 🤖 **Integración con IA**: → OpenAI, asistentes inteligentes para negocios.  
 
 ---
 
