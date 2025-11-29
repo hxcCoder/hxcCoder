@@ -7,19 +7,11 @@
 
 # Hola, soy Benjamin  👋
 
-💡 **Automation Developer | Data & AI Integrator**  
-📍 Chile | 🌐 Enfocado en **soluciones de automatización, ETL, APIs e integración de IA**.  
+💡 Automation Developer | Data & AI Integrator
+📍 Chile | Construyo soluciones de automatización y pipelines de datos con integración de IA
 
-Me apasiona construir **sistemas**: desde pipelines en la nube hasta dashboards interactivos.  
-
----
-
-## 🚀 Lo que hago
-- 🔌 **Automatización de procesos**: con **n8n, Python y APIs**.  
-- 🗄️ **Bases de datos y SQL**: → modelado, queries complejas, optimización.  
-- ☁️ **Data Pipelines en la nube**: (Google BigQuery, Docker, ETL).  
-- 📊 **Dashboards y reporting**: con **Power BI / React**.  
-- 🤖 **Integración con IA**: → OpenAI, asistentes inteligentes para negocios.  
+Transformo tareas repetitivas en sistemas inteligentes y eficientes,
+desde pipelines en la nube hasta dashboards interactivos y asistentes con IA.  
 
 ---
 
@@ -38,27 +30,34 @@ Me apasiona construir **sistemas**: desde pipelines en la nube hasta dashboards 
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,docker,mysql,postgresql,git,github,linux,vscode,django,nextjs,tailwind,html,css,php,gcp" /><br/>
-</p>
+- Lenguajes & Frameworks: Python, JavaScript, PHP, Django, FastAPI, React, Next.js, TailwindCSS
 
----
+- Bases de datos & ETL: MySQL, PostgreSQL, Oracle, Google BigQuery, pipelines en la nube
+- 
+- DevOps & herramientas: Docker, Git/GitHub, Linux, VS Code
+
+- IA & Automatización: OpenAI API, n8n, asistentes inteligentes, automatización de negocios
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,react,docker,mysql,postgresql,git,github,linux,vscode,django,nextjs,tailwind,html,css,php,gcp" /> </p>
 
 ## 📊 Mis estadísticas en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hxcCoder&show_icons=true&theme=radical" height="160" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hxcCoder&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxcCoder&layout=compact&theme=radical" height="160" />
 </p>
 
 ---
 
-## 📫 Conecta conmigo
+📫 Contacto
+-
 
-- 💼 LinkedIn: [linkedin.com/benjamin-millalonco](www.linkedin.com/in/benjamin-millalonco)  
-- 📧 Email: **benjaminmillalonc@gmail.com**  
-- 🌐 Portafolio: *en construcción*  
+💼 LinkedIn
 
+📧 Email: benjaminmillalonc@gmail.com
+
+🌐 Portafolio: en construcción
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3443,100:34e89e&height=100&section=footer"/> </p>
 ---
 
 <p align="center">
