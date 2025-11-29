@@ -4,11 +4,12 @@
 </p>
 
 ---
-
+<p align="center">
 # Hola, soy Benjamin  👋
 
 💡 Automation Developer | Data & AI Integrator
 📍 Chile | Construyo soluciones de automatización y pipelines de datos con integración de IA
+</p>
 
 Transformo tareas repetitivas en sistemas inteligentes y eficientes,
 desde pipelines en la nube hasta dashboards interactivos y asistentes con IA.  
