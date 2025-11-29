@@ -5,8 +5,9 @@
 
 ---
 <p align="center">
-# Hola, soy Benjamin  👋
-
+  
+Hola, soy Benjamin  👋
+-
 💡 Automation Developer | Data & AI Integrator
 📍 Chile | Construyo soluciones de automatización y pipelines de datos con integración de IA
 </p>
