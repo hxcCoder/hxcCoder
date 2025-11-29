@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-  ## Hola, soy Benjamin 👋
+  Hola, soy Benjamin 👋
+  -
+  
 </p>
 
 <p align="center">
