@@ -58,7 +58,7 @@ Trabajo con tecnologías modernas y soluciones en la nube para proyectos de auto
 ## Contacto
 
 <p align="center">
-💼 LinkedIn: [linkedin.com/in/benjamin-millalonco](https://www.linkedin.com/in/benjamin-millalonco)<br/>
+💼 LinkedIn: [www.linkedin.com/in/benjamin-millalonco]<br/>
 📧 Email: benjaminmillalonc@gmail.com<br/>
 🌐 Portafolio: en construcción
 </p>
