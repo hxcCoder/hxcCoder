@@ -5,36 +5,29 @@
 <h1 align="center">Hola, soy Benjamin Millalonco 👋</h1>
 
 <p align="center">
-💡 <strong>Automation Developer | Data & AI Integrator</strong>  
-📍 Chile | Transformo tareas repetitivas en sistemas inteligentes y eficientes
+💡 <strong>Automation Developer | Data & AI Integrator</strong><br/>
+📍 Chile | Construyo sistemas inteligentes y pipelines de datos con integración de IA
 </p>
 
 ---
 
 ## 🚀 Sobre mí
-
-Automatizo procesos y construyo **pipelines de datos**, dashboards interactivos y asistentes con IA.  
-Trabajo con herramientas modernas para **Python, TypeScript, FastAPI, React y soluciones en la nube**.  
+Automatizo tareas repetitivas y construyo **pipelines de datos**, dashboards interactivos y asistentes inteligentes.  
+Trabajo con tecnologías modernas y soluciones en la nube para proyectos de automatización, análisis de datos e integración de IA.
 
 ---
 
 ## 🏆 Proyectos Destacados
 
-<div align="center">
+<p align="center">
 
-**Global Weather Data Pipeline**  
-[🔗 Ver proyecto](https://github.com/hxcCoder/Pipeline-de-Datos-de-Clima-Global)  
-*ETL en Python con API de clima → Google BigQuery → Dashboard en Power BI*  
+| Proyecto | Descripción | Tecnologías | Link |
+|----------|------------|------------|------|
+| 🌦️ **Global Weather Data Pipeline** | ETL en Python con API de clima → Google BigQuery → Dashboard en Power BI | `Python` `SQL` `BigQuery` `PowerBI` | [GitHub](https://github.com/hxcCoder/Pipeline-de-Datos-de-Clima-Global) |
+| 🚚 **Análisis Logística Python + SQL** | Modelado de datos, queries SQL y análisis con Pandas para optimización logística | `Python` `SQL` `Pandas` | [GitHub](https://github.com/hxcCoder/analisis-logistica-python) |
+| 📊 **Business Automation Dashboard** | Dashboard interactivo con Next.js y TypeScript para automatización de negocios con IA | `TypeScript` `React` `Next.js` `n8n` | [GitHub](https://github.com/hxcCoder/business-automation-dashboard) |
 
-**Análisis Logística con Python + SQL**  
-[🔗 Ver proyecto](https://github.com/hxcCoder/analisis-logistica-python)  
-*Modelado de datos, queries complejas SQL y análisis con Pandas para optimización logística*  
-
-**Business Automation Dashboard**  
-[🔗 Ver proyecto](https://github.com/hxcCoder/business-automation-dashboard)  
-*Dashboard interactivo con Next.js y TypeScript para automatización de negocios con integración de IA*  
-
-</div>
+</p>
 
 ---
 
@@ -51,7 +44,7 @@ Trabajo con herramientas modernas para **Python, TypeScript, FastAPI, React y so
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Mis estadísticas en GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hxcCoder&show_icons=true&theme=radical&count_private=true" height="160" />
@@ -63,8 +56,8 @@ Trabajo con herramientas modernas para **Python, TypeScript, FastAPI, React y so
 ## 📫 Contacto
 
 <p align="center">
-💼 LinkedIn: [linkedin.com/in/benjamin-millalonco](https://www.linkedin.com/in/benjamin-millalonco)  
-📧 Email: benjaminmillalonc@gmail.com  
+💼 LinkedIn: [linkedin.com/in/benjamin-millalonco](https://www.linkedin.com/in/benjamin-millalonco)<br/>
+📧 Email: benjaminmillalonc@gmail.com<br/>
 🌐 Portafolio: en construcción
 </p>
 
@@ -73,4 +66,3 @@ Trabajo con herramientas modernas para **Python, TypeScript, FastAPI, React y so
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3443,100:34e89e&height=100&section=footer"/>
 </p>
-
