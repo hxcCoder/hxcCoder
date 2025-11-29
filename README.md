@@ -5,7 +5,7 @@
 
 ---
 
-#Hola, soy Benjamin  👋
+# Hola, soy Benjamin  👋
 
 💡 **Automation Developer | Data & AI Integrator**  
 📍 Chile | 🌐 Enfocado en **soluciones de automatización, ETL, APIs e integración de IA**.  
