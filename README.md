@@ -1,14 +1,13 @@
 <!-- Banner superior -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3443,100:34e89e&height=200&section=header&text=Benjamin%20Millalonco%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-
-
+</p>
+<p text-align="center">
 ## Hola, soy Benjamin  👋
-
+<p/>
 💡 Automation Developer | Data & AI Integrator
 📍 Chile | Construyo soluciones de automatización y pipelines de datos con integración de IA
-</p>
+
 
 Transformo tareas repetitivas en sistemas inteligentes y eficientes,
 desde pipelines en la nube hasta dashboards interactivos y asistentes con IA.  
