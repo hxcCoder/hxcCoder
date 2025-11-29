@@ -11,13 +11,13 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 Automatizo tareas repetitivas y construyo **pipelines de datos**, dashboards interactivos y asistentes inteligentes.  
 Trabajo con tecnologías modernas y soluciones en la nube para proyectos de automatización, análisis de datos e integración de IA.
 
 ---
 
-## 🏆 Proyectos Destacados
+## Proyectos Destacados
 
 <p align="center">
 
