@@ -38,7 +38,10 @@ desde pipelines en la nube hasta dashboards interactivos y asistentes con IA.
 
 - IA & Automatización: OpenAI API, n8n, asistentes inteligentes, automatización de negocios
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,react,docker,mysql,postgresql,git,github,linux,vscode,django,nextjs,tailwind,html,css,php,gcp" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,django,fastapi,docker,postgresql,mysql,git,github,vscode,tailwind,html,css" /><br/>
+</p>
+
 
 ## 📊 Mis estadísticas en GitHub
 
