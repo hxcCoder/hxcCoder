@@ -1,8 +1,9 @@
 # 👋 Hola, soy Benjamin Millalonco
 
-💡 **Automation Developer | Data & AI Integrator**  
+
 <p align="center">
-📍 Chile | Construyo soluciones de automatización y pipelines de datos con integración de IA
+ 💡 Automation Developer | Data & AI Integrator
+📍 Chile | Construyo soluciones de automatización y pipelines de datos con integración de IA.
 <p/>
  
 Transformo tareas repetitivas en sistemas inteligentes y eficientes, desde pipelines en la nube hasta dashboards interactivos y asistentes con IA.
