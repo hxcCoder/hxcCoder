@@ -26,6 +26,8 @@ Trabajo con tecnologías modernas y soluciones en la nube para proyectos de auto
 | 🌦️ **Global Weather Data Pipeline** | ETL en Python con API de clima → Google BigQuery → Dashboard en Power BI | `Python` `SQL` `BigQuery` `PowerBI` | [GitHub](https://github.com/hxcCoder/Pipeline-de-Datos-de-Clima-Global) |
 | 🚚 **Análisis Logística Python + SQL** | Modelado de datos, queries SQL y análisis con Pandas para optimización logística | `Python` `SQL` `Pandas` | [GitHub](https://github.com/hxcCoder/analisis-logistica-python) |
 | 📊 **Business Automation Dashboard** | Dashboard interactivo con Next.js y TypeScript para automatización de negocios con IA | `TypeScript` `React` `Next.js` `n8n` | [GitHub](https://github.com/hxcCoder/business-automation-dashboard) |
+| 💳 **Billing System** | Backend de facturación para CASA Tejuela con FastAPI. Gestiona pagos, carritos y sesiones de checkout; endpoints JSON listos para frontend. Validaciones y seguridad con Pydantic/Zod, CSRF, rate limiting y sanitización de inputs. Preparado para Stripe o Google Sheets. | `Python` `FastAPI` `Pydantic` `Zod` `Stripe` `JSON` | [GitHub](https://github.com/hxcCoder/Billing-System) |
+| 🖥️ **Fullstack Billing System** | Proyecto unificado de backend + frontend (TypeScript/React) que integra Billing System con dashboard funcional y endpoints desacoplados, listo para producción y despliegue | `Python` `FastAPI` `TypeScript` `React` `Next.js` `SQL` | [GitHub](https://github.com/hxcCoder/Fullstack_billing_system) |
 
 </p>
 
