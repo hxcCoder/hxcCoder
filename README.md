@@ -57,7 +57,6 @@ Trabajo con tecnologías modernas y soluciones en la nube para proyectos de auto
     />
   </a>
 </p>
-
 ## Contacto
 
 <p align="center">
