@@ -46,14 +46,16 @@ Trabajo con tecnologías modernas y soluciones en la nube para proyectos de auto
 
 ---
 
-## Mis estadísticas en GitHub
+### Mis estadísticas en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hxcCoder&show_icons=true&theme=radical&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxcCoder&layout=compact&theme=radical" height="160" />
-</p>
-
----
+<div align="center">
+  <a href="https://github.com/hxcCoder">
+    <img src="https://github-readme-stats.vercel.app/api?username=hxcCoder&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" />
+  </a>
+  <a href="https://github.com/hxcCoder">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxcCoder&layout=compact&theme=radical" alt="Lenguajes Principales" />
+  </a>
+</div>
 
 ## Contacto
 
