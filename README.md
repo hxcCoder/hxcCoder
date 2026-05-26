@@ -1,98 +1,75 @@
-# Benjamin Millalonco
+# Hi, I'm Benjamin Millalonco 👋
+**Backend Developer | Scalable Systems • Security • Event-Driven Architectures**
 
-Backend Developer focused on scalable backend systems, security, and event-driven architectures.
+Building production-grade platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I focus on clean architecture, robust security, and automated workflows.
 
-Building production-oriented projects with Node.js, TypeScript, Python, PostgreSQL, and Docker.
-
-📍 Puerto Montt, Chile · Open to remote opportunities
-
-[LinkedIn](https://linkedin.com/in/benjamin-millalonco) • [GitHub](https://github.com/hxcCoder) • [benjaminmillalonc@gmail.com](mailto:benjaminmillalonc@gmail.com)
+📍 Puerto Montt, Chile · 🌎 Open to remote opportunities globally  
+📧 [benjaminmillalonc@gmail.com](mailto:benjaminmillalonc@gmail.com) • 👔 [LinkedIn](#) • 🐙 [GitHub](https://github.com/hxcCoder)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Galería Puerto
+### 🛒 Galería Puerto | E-commerce Platform
+*An event-driven platform for Chilean artisans featuring secure payment integrations.*
+- **Tech:** Node.js, TypeScript, PostgreSQL, Prisma, Docker
+- **Highlights:**
+  - Integrated MercadoPago with robust webhook handling.
+  - Implemented Google OAuth 2.0 + JWT authentication.
+  - Designed with Clean Architecture + DDD principles.
+  - Engineered an event-driven payment flow and transactional email system.
+- 🔗 **Repository:** [hxcCoder/E-commerce-monorepo](https://github.com/hxcCoder/E-commerce-monorepo)
 
-E-commerce platform for Chilean artisans.
+### 🛡️ SentinelLab | Security Event Processing Engine
+*A security-focused backend platform inspired by SIEM systems for threat detection.*
+- **Tech:** FastAPI, PostgreSQL, SQLAlchemy (Async), Docker
+- **Highlights:**
+  - Built a detection engine with rule-based alerts and immutable audit logs.
+  - Implemented RBAC with JWT refresh rotation for secure access.
+  - Designed an asynchronous architecture with layered microservices.
+  - *Metric:* Optimized for high-throughput security event correlation workflows.
+- 🔗 **Repository:** [hxcCoder/saas-ticket-backend](https://github.com/hxcCoder/saas-ticket-backend) *(Consider renaming repo to sentinellab)*
 
-**Tech:** Node.js · TypeScript · PostgreSQL · Prisma · Docker
-
-* MercadoPago integration with webhook handling
-* Google OAuth 2.0 + JWT authentication
-* Event-driven payment flow
-* Clean Architecture + DDD
-* Transactional emails and admin panel
-
-🔗 Repository: https://github.com/hxcCoder/E-commerce-monorepo
-
----
-
-### SentinelLab — Security Event Processing Engine
-
-Security-focused backend platform inspired by SIEM systems.
-
-**Tech:** FastAPI · PostgreSQL · SQLAlchemy async · Docker
-
-* Detection engine with rule-based alerts
-* Alert lifecycle and immutable audit logs
-* RBAC with JWT refresh rotation
-* Async architecture with layered services
-* Security event correlation workflows
-
-🔗 Repository: https://github.com/hxcCoder/saas-ticket-backend
+### 🌤️ ETL Weather Pipeline | Automated Data Ingestion
+*Automated meteorological data pipeline for analytics and visualization.*
+- **Tech:** Python, Pandas, BigQuery, n8n, Power BI
+- **Highlights:**
+  - Ingested data from OpenWeatherMap + NOAA via automated ETL workflows.
+  - Scaled storage and analytics using Google BigQuery.
+  - Built business intelligence dashboards with Power BI.
 
 ---
 
-### ETL Weather Pipeline
+## ⚙️ Technical Stack
 
-Automated meteorological data pipeline.
+**Backend & APIs:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Tech:** Python · Pandas · BigQuery · n8n · Power BI
+**Databases & ORMs:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white)
 
-* OpenWeatherMap + NOAA ingestion
-* Automated ETL workflows
-* BigQuery storage and analytics
-* Power BI dashboards
+**Architecture & Security:**  
+`Clean Architecture` `DDD` `CQRS` `Event-Driven Systems` `JWT` `RBAC` `OAuth 2.0` `Audit Logs`
 
----
-
-## Stack
-
-### Backend
-
-Node.js · Express · FastAPI · TypeScript · Python
-
-### Databases
-
-PostgreSQL · Prisma · SQLAlchemy · BigQuery
-
-### Architecture
-
-Clean Architecture · DDD · CQRS · Event-driven systems
-
-### DevOps
-
-Docker · GitHub Actions · Railway · Render · Vercel
-
-### Security
-
-JWT · RBAC · OAuth 2.0 · Audit Logs
+**DevOps & Automation:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
+- Distributed Systems & High Availability
+- Security Engineering & Identity Management
+- AI-driven Automation with n8n
 
-* Backend architecture
-* Distributed systems
-* Security engineering
-* Event-driven applications
-* AI automation with n8n
-
----
-
-## Education
-
-Ingeniería en Informática — INACAP
-2025 — Present
-
+## 🎓 Education
+**B.S. in Computer Engineering** — INACAP  
+*2025 — Present*
