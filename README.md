@@ -2,72 +2,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3443,100:34e89e&height=200&section=header&text=Benjamin%20Millalonco%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Hola, soy Benjamin Millalonco 👋</h1>
+Benjamin Millalonco — hxcCoder
+Backend developer building real systems in production.
+Not tutorials. Not demos. Systems that handle payments, security events, and real users.
 
-<p align="center">
-💡 <strong>Automation Developer | Data & AI Integrator</strong><br/>
-📍 Chile | Construyo sistemas inteligentes y pipelines de datos con integración de IA
-</p>
+What I build
+Galería Puerto — E-commerce platform for southern Chilean artisans
+Clean Architecture · DDD · Event Sourcing · Outbox Pattern · MercadoPago · Google OAuth 2.0
+SentinelLab — SEPE — Security event processing engine
+SIEM-style detection rules · Alert lifecycle · Audit logs · RBAC · FastAPI + PostgreSQL async
+ETL Pipeline — Meteorological Data — Global weather data ingestion
+OpenWeatherMap · NOAA · Pandas · BigQuery · Power BI · n8n automation
 
----
+Stack
+Languages   TypeScript · Python · SQL
+Backend     Node.js · Express · FastAPI
+Database    PostgreSQL · Prisma · SQLAlchemy async · BigQuery
+Arch        Clean Architecture · DDD · Event Sourcing · CQRS · Outbox Pattern
+Security    JWT + refresh rotation · RBAC · Google OAuth 2.0 · audit logs
+DevOps      Docker · GitHub Actions · Railway · Render · Vercel
 
-## Sobre mí
-Automatizo tareas repetitivas y construyo **pipelines de datos**, dashboards interactivos y asistentes inteligentes.  
-Trabajo con tecnologías modernas y soluciones en la nube para proyectos de automatización, análisis de datos e integración de IA.
+Approach
+Every architectural decision has a justification.
+I use Clean Architecture and DDD because I understand the problems they solve — not because they look good on a CV.
 
----
-
-## Proyectos Destacados
-
-<p align="center">
-
-| Proyecto | Descripción | Tecnologías | Link |
-|----------|------------|------------|------|
-|  **Global Weather Data Pipeline** | ETL en Python con API de clima → Google BigQuery → Dashboard en Power BI | `Python` `SQL` `BigQuery` `PowerBI` | [GitHub](https://github.com/hxcCoder/Pipeline-de-Datos-de-Clima-Global) |
-|  **Análisis Logística Python + SQL** | Modelado de datos, queries SQL y análisis con Pandas para optimización logística | `Python` `SQL` `Pandas` | [GitHub](https://github.com/hxcCoder/analisis-logistica-python) |
-|  **Business Automation Dashboard** | Dashboard interactivo con Next.js y TypeScript para automatización de negocios con IA | `TypeScript` `React` `Next.js` `n8n` | [GitHub](https://github.com/hxcCoder/business-automation-dashboard) |
-|  **Billing System** | Backend de facturación para CASA Tejuela con FastAPI. Gestiona pagos, carritos y sesiones de checkout; endpoints JSON listos para frontend. Validaciones y seguridad con Pydantic/Zod, CSRF, rate limiting y sanitización de inputs. Preparado para Stripe o Google Sheets. | `Python` `FastAPI` `Pydantic` `Zod` `Stripe` `JSON` | [GitHub](https://github.com/hxcCoder/Billing-System) |
-| 🖥️ **Fullstack Billing System** | Proyecto unificado de backend + frontend (TypeScript/React) que integra Billing System con dashboard funcional y endpoints desacoplados, listo para producción y despliegue | `Python` `FastAPI` `TypeScript` `React` `Next.js` `SQL` | [GitHub](https://github.com/hxcCoder/Fullstack_billing_system) |
-
-</p>
-
----
-
-##  Tecnologías & Herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,django,fastapi,docker,postgresql,mysql,git,github,vscode,tailwind,html,css" />
-</p>
-
-**Lenguajes & Frameworks:** Python, TypeScript, JavaScript, Django, FastAPI, React, Next.js, TailwindCSS  
-**Bases de datos & ETL:** MySQL, PostgreSQL, Oracle, Google BigQuery, pipelines en la nube  
-**DevOps & herramientas:** Docker, Git/GitHub, Linux, VS Code  
-**IA & Automatización:** OpenAI API, n8n, asistentes inteligentes, automatización de negocios  
-
----
-
-### Mis estadísticas en GitHub
-
-<h3 align="center">Racha de Contribuciones</h3>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=hxcCoder&theme=radical" 
-      alt="Racha de contribuciones de GitHub" 
-    />
-  </a>
-</p>
-
-## Contacto
-
-<p align="center">
-💼 LinkedIn: www.linkedin.com/in/benjamin-millalonco<br/>
-📧 Email: benjaminmillalonc@gmail.com
-🌐 Portafolio: en construcción
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3443,100:34e89e&height=100&section=footer"/>
-</p>
+📍 Puerto Montt, Chile · Open to remote
+📬 benjaminmillalonc@gmail.com · LinkedIn
