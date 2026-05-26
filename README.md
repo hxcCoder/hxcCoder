@@ -3,14 +3,14 @@
 
 Building production-grade platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I focus on clean architecture, robust security, and automated workflows.
 
-📍 Puerto Montt, Chile · 🌎 Open to remote opportunities globally  
+📍 Puerto Montt, Chile · 🌎 Open to remote 
 📧 [benjaminmillalonc@gmail.com](mailto:benjaminmillalonc@gmail.com) • 👔 [LinkedIn](#) • 🐙 [GitHub](https://github.com/hxcCoder)
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🛒 Galería Puerto | E-commerce Platform
+###  Galería Puerto | E-commerce Platform
 *An event-driven platform for Chilean artisans featuring secure payment integrations.*
 - **Tech:** Node.js, TypeScript, PostgreSQL, Prisma, Docker
 - **Highlights:**
@@ -20,7 +20,7 @@ Building production-grade platforms with Node.js, TypeScript, Python, PostgreSQL
   - Engineered an event-driven payment flow and transactional email system.
 - 🔗 **Repository:** [hxcCoder/E-commerce-monorepo](https://github.com/hxcCoder/E-commerce-monorepo)
 
-### 🛡️ SentinelLab | Security Event Processing Engine
+### SentinelLab | Security Event Processing Engine
 *A security-focused backend platform inspired by SIEM systems for threat detection.*
 - **Tech:** FastAPI, PostgreSQL, SQLAlchemy (Async), Docker
 - **Highlights:**
@@ -30,7 +30,7 @@ Building production-grade platforms with Node.js, TypeScript, Python, PostgreSQL
   - *Metric:* Optimized for high-throughput security event correlation workflows.
 - 🔗 **Repository:** [hxcCoder/saas-ticket-backend](https://github.com/hxcCoder/saas-ticket-backend) *(Consider renaming repo to sentinellab)*
 
-### 🌤️ ETL Weather Pipeline | Automated Data Ingestion
+### ETL Weather Pipeline | Automated Data Ingestion
 *Automated meteorological data pipeline for analytics and visualization.*
 - **Tech:** Python, Pandas, BigQuery, n8n, Power BI
 - **Highlights:**
@@ -40,7 +40,7 @@ Building production-grade platforms with Node.js, TypeScript, Python, PostgreSQL
 
 ---
 
-## ⚙️ Technical Stack
+## Technical Stack
 
 **Backend & APIs:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -65,11 +65,11 @@ Building production-grade platforms with Node.js, TypeScript, Python, PostgreSQL
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 - Distributed Systems & High Availability
 - Security Engineering & Identity Management
 - AI-driven Automation with n8n
 
-## 🎓 Education
+##  Education
 **B.S. in Computer Engineering** — INACAP  
 *2025 — Present*
