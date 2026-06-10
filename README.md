@@ -3,8 +3,8 @@
 
 Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I focus on clean architecture, robust security, and automated workflows.
 
-📍 Puerto Montt, Chile · 🌎 Open to remote 
-📧 [benjaminmillalonc@gmail.com](mailto:benjaminmillalonc@gmail.com) • 👔 [LinkedIn](#) • 🐙 [GitHub](https://github.com/hxcCoder)
+📍 Puerto Montt, Chile · Open to remote 
+📧 [benjaminmillalonc@gmail.com](mailto:benjaminmillalonc@gmail.com) • [LinkedIn](#) • [GitHub](https://github.com/hxcCoder)
 
 ---
 
