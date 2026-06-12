@@ -3,22 +3,12 @@
 
 Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I focus on clean architecture, robust security, and automated workflows.
 
-📍 Puerto Montt, Chile · Open to remote 
-📧 [benjaminmillalonc@gmail.com](mailto:benjaminmillalonc@gmail.com) • [LinkedIn](#) • [GitHub](https://github.com/hxcCoder)
+ Puerto Montt, Chile · Open to remote 
+ [benjaminmillalonc@gmail.com](mailto:benjaminmillalonc@gmail.com) • [LinkedIn](#) • [GitHub](https://github.com/hxcCoder)
 
 ---
 
 ##  Featured Projects
-
-###  Galería Puerto | E-commerce Platform
-*An event-driven platform for Chilean artisans featuring secure payment integrations.*
-- **Tech:** Node.js, TypeScript, PostgreSQL, Prisma, Docker
-- **Highlights:**
-  - Integrated MercadoPago with robust webhook handling.
-  - Implemented Google OAuth 2.0 + JWT authentication.
-  - Designed with Clean Architecture + DDD principles.
-  - Engineered an event-driven payment flow and transactional email system.
-- 🔗 **Repository:** [hxcCoder/E-commerce-monorepo](https://github.com/hxcCoder/E-commerce-monorepo)
 
 ### SentinelLab | Security Event Processing Engine
 *A security-focused backend platform inspired by SIEM systems for threat detection.*
