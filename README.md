@@ -16,7 +16,7 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 - **Tech:** FastAPI, PostgreSQL, SQLAlchemy Async, Docker
 
 - **Related Modules:**  
-  Workflow & Audit Engine — Operational workflow backend with immutable audit logging and execution state management.
+  [Workflow & Audit Engine](https://github.com/hxcCoder/saas-ticket-backend) — Operational workflow backend with immutable audit logging and execution state management.
 
 - **Highlights:**
   - Built a detection engine with rule-based alerts and immutable audit logs.
@@ -54,7 +54,6 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
   - Ingested data from OpenWeatherMap and NOAA through automated ETL workflows.
   - Scaled storage and analytics using Google BigQuery.
   - Built business intelligence dashboards with Power BI for data visualization and reporting.
----
 
 ## Technical Stack
 
