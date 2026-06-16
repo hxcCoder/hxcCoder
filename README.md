@@ -19,7 +19,7 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
   - Designed an asynchronous architecture with layered microservices.
   - *Metric:* Optimized for high-throughput security event correlation workflows.
 - 🔗 **Repository:** [hxcCoder/saas-ticket-backend](https://github.com/hxcCoder/saas-ticket-backend) *(Consider renaming repo to sentinellab)*
-- 
+  
 ### LogisParse | Intelligent Document Verification Platform
 *AI-assisted document verification platform focused on administrative and tax-related workflows.*
 - **Tech:** FastAPI, PostgreSQL, SQLAlchemy Async, OpenAI Structured Outputs, Docker
@@ -30,7 +30,7 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
   - Developed traceable document status flows for validation and operational review.
   - *Focus:* Reducing repetitive manual validation in logistics and administrative processes.
 - 🔗 **Repository:** [hxcCoder/LogisParse](https://github.com/hxcCoder/LogisParse)
-- 
+  
 ### ETL Weather Pipeline | Automated Data Ingestion
 *Automated meteorological data pipeline for analytics and visualization.*
 - **Tech:** Python, Pandas, BigQuery, n8n, Power BI
