@@ -8,37 +8,52 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 ### SentinelLab | Security Event Processing Engine
-*A security-focused backend platform inspired by SIEM systems for threat detection.*
-- **Tech:** FastAPI, PostgreSQL, SQLAlchemy (Async), Docker
+*A security-focused backend platform inspired by SIEM systems for threat detection and operational security workflows.*
+
+- **Tech:** FastAPI, PostgreSQL, SQLAlchemy Async, Docker
+
+- **Related Modules:**  
+  Workflow & Audit Engine — Operational workflow backend with immutable audit logging and execution state management.
+
 - **Highlights:**
   - Built a detection engine with rule-based alerts and immutable audit logs.
   - Implemented RBAC with JWT refresh rotation for secure access.
-  - Designed an asynchronous architecture with layered microservices.
-  - *Metric:* Optimized for high-throughput security event correlation workflows.
-- 🔗 **Repository:** [hxcCoder/saas-ticket-backend](https://github.com/hxcCoder/saas-ticket-backend) *(Consider renaming repo to sentinellab)*
-  
+  - Designed asynchronous backend flows for event processing and operational traceability.
+  - Developed milestone-based architecture planning focused on backend security engineering.
+  - *Focus:* Auditability, defensive backend systems and operational security workflows.
+
+- 🔗 **Repository:** [hxcCoder/SentinelLab](https://github.com/hxcCoder/SentinelLab)
+
+---
+
 ### LogisParse | Intelligent Document Verification Platform
 *AI-assisted document verification platform focused on administrative and tax-related workflows.*
+
 - **Tech:** FastAPI, PostgreSQL, SQLAlchemy Async, OpenAI Structured Outputs, Docker
+
 - **Highlights:**
   - Built a hybrid document processing pipeline combining local validation and AI-assisted verification.
   - Implemented PDF and image extraction workflows with structured data normalization.
   - Designed a lightweight modular monolith architecture optimized for low-cost deployment.
   - Developed traceable document status flows for validation and operational review.
   - *Focus:* Reducing repetitive manual validation in logistics and administrative processes.
+
 - 🔗 **Repository:** [hxcCoder/LogisParse](https://github.com/hxcCoder/LogisParse)
-  
+
+---
+
 ### ETL Weather Pipeline | Automated Data Ingestion
 *Automated meteorological data pipeline for analytics and visualization.*
-- **Tech:** Python, Pandas, BigQuery, n8n, Power BI
-- **Highlights:**
-  - Ingested data from OpenWeatherMap + NOAA via automated ETL workflows.
-  - Scaled storage and analytics using Google BigQuery.
-  - Built business intelligence dashboards with Power BI.
 
+- **Tech:** Python, Pandas, BigQuery, n8n, Power BI
+
+- **Highlights:**
+  - Ingested data from OpenWeatherMap and NOAA through automated ETL workflows.
+  - Scaled storage and analytics using Google BigQuery.
+  - Built business intelligence dashboards with Power BI for data visualization and reporting.
 ---
 
 ## Technical Stack
