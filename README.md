@@ -1,5 +1,3 @@
-# Hi 👋
-I'm Benjamin 
 **Backend Developer | Scalable Systems • Security • Event-Driven Architectures**
 
 Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I focus on clean architecture, security, and automated workflows.
