@@ -49,21 +49,11 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 **Tech**: Node.js, TypeScript, Streams, Tiktoken (WASM), Commander, Inquirer
 
 - **Highlights**:
-
-**Zero-RAM Processing (O(1))**:
-Process large repositories using fs.opendir and native streams without loading the entire project into memory.
-
-**Atomic Output Safety**:
-Generate output in a temporary file and only perform a final commit if the process finishes successfully.
-
-**Interrupt Handling (CTRL+C)**: 
-Reactive cancellation system with stream cleaning and temporary file rollback.
-
-**Smart Ignore System**: 
-Respect .gitignore and automatically exclude binaries, multimedia, dependencies, and sensitive files.
-
-**Token Strategy Layer**: 
-It supports fast estimation and accurate counting using Tiktoken (WASM), with dynamic selection based on an AI model.
+  - Zero-RAM Processing (O(1)): Process large repositories using fs.opendir and native streams without loading the entire project into memory. 
+  - Atomic Output Safety: Generate output in a temporary file and only perform a final commit if the process finishes successfully.
+  - Interrupt Handling (CTRL+C): Reactive cancellation system with stream cleaning and temporary file rollback.
+  - Smart Ignore System:  Respect .gitignore and automatically exclude binaries, multimedia, dependencies, and sensitive files.
+  - Token Strategy Layer: It supports fast estimation and accurate counting using Tiktoken (WASM), with dynamic selection based on an AI model.
 
 - 🔗 **Repository**: [hxcCoder/context-packer](https://github.com/hxcCoder/context-packer)
 
