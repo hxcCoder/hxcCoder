@@ -45,16 +45,29 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 
 ---
 
-### ETL Weather Pipeline | Automated Data Ingestion
-*Automated meteorological data pipeline for analytics and visualization.*
+### Context Packer | Repository-to-LLM Context CLI
+*Repository packager optimized for Language Models (GPT, Claude, Gemini, DeepSeek). Converts entire codebases into a single structured file ready for AI consumption.*
 
-- **Tech:** Python, Pandas, BigQuery, n8n, Power BI
+Tech: Node.js, TypeScript, Streams, Tiktoken (WASM), Commander, Inquirer
 
-- **Highlights:**
-  - Ingested data from OpenWeatherMap and NOAA through automated ETL workflows.
-  - Scaled storage and analytics using Google BigQuery.
-  - Built business intelligence dashboards with Power BI for data visualization and reporting.
+Highlights:
 
+Zero-RAM Processing (O(1))
+Process large repositories using fs.opendir and native streams without loading the entire project into memory.
+
+Atomic Output Safety
+Generate output in a temporary file and only perform a final commit if the process finishes successfully.
+
+Interrupt Handling (CTRL+C)
+Reactive cancellation system with stream cleaning and temporary file rollback.
+
+Smart Ignore System
+Respect .gitignore and automatically exclude binaries, multimedia, dependencies, and sensitive files.
+
+Token Strategy Layer
+Soporta estimación rápida y conteo preciso mediante Tiktoken (WASM), con selección dinámica según modelo de IA.
+
+🔗 Repository: hxcCoder/context-packer
 ## Technical Stack
 
 **Backend & APIs:**  
