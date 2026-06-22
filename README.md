@@ -41,10 +41,8 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
   - Developed traceable document status flows for validation and operational review.
   - *Focus:* Reducing repetitive manual validation in logistics and administrative processes.
 
-- 🔗 **Repository:** [hxcCoder/LogisParse](https://github.com/hxcCoder/LogisParse)
-
+ - 🔗 **Repository:** [hxcCoder/LogisParse](https://github.com/hxcCoder/LogisParse)
 ---
-
 ### Context Packer | Repository-to-LLM Context CLI
 *Repository packager optimized for Language Models (GPT, Claude, Gemini, DeepSeek). Converts entire codebases into a single structured file ready for AI consumption.*
 
