@@ -63,7 +63,7 @@ Reactive cancellation system with stream cleaning and temporary file rollback.
 Respect .gitignore and automatically exclude binaries, multimedia, dependencies, and sensitive files.
 
 **Token Strategy Layer**: 
-- It supports fast estimation and accurate counting using Tiktoken (WASM), with dynamic selection based on an AI model.
+It supports fast estimation and accurate counting using Tiktoken (WASM), with dynamic selection based on an AI model.
 
 - 🔗 **Repository**: hxcCoder/context-packer
 
