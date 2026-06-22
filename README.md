@@ -50,7 +50,7 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 
 **Tech**: Node.js, TypeScript, Streams, Tiktoken (WASM), Commander, Inquirer
 
-**Highlights**:
+- **Highlights**:
 
 - *Zero-RAM Processing (O(1))*
 Process large repositories using fs.opendir and native streams without loading the entire project into memory.
@@ -67,7 +67,9 @@ Respect .gitignore and automatically exclude binaries, multimedia, dependencies,
 - *Token Strategy Layer*
 Soporta estimación rápida y conteo preciso mediante Tiktoken (WASM), con selección dinámica según modelo de IA.
 
-🔗 **Repository**: hxcCoder/context-packer
+- 🔗 **Repository**: hxcCoder/context-packer
+- 
+---
 ## Technical Stack
 
 **Backend & APIs:**  
