@@ -65,7 +65,7 @@ Respect .gitignore and automatically exclude binaries, multimedia, dependencies,
 **Token Strategy Layer**: 
 It supports fast estimation and accurate counting using Tiktoken (WASM), with dynamic selection based on an AI model.
 
-- 🔗 **Repository**: hxcCoder/context-packer
+- 🔗 **Repository**: [hxcCoder/context-packer](https://github.com/hxcCoder/context-packer)
 
 ---
 
