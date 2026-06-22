@@ -48,26 +48,26 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 ### Context Packer | Repository-to-LLM Context CLI
 *Repository packager optimized for Language Models (GPT, Claude, Gemini, DeepSeek). Converts entire codebases into a single structured file ready for AI consumption.*
 
-Tech: Node.js, TypeScript, Streams, Tiktoken (WASM), Commander, Inquirer
+**Tech**: Node.js, TypeScript, Streams, Tiktoken (WASM), Commander, Inquirer
 
-Highlights:
+**Highlights**:
 
-Zero-RAM Processing (O(1))
+- *Zero-RAM Processing (O(1))*
 Process large repositories using fs.opendir and native streams without loading the entire project into memory.
 
-Atomic Output Safety
+- *Atomic Output Safety*
 Generate output in a temporary file and only perform a final commit if the process finishes successfully.
 
-Interrupt Handling (CTRL+C)
+- *Interrupt Handling (CTRL+C)*
 Reactive cancellation system with stream cleaning and temporary file rollback.
 
-Smart Ignore System
+- *Smart Ignore System*
 Respect .gitignore and automatically exclude binaries, multimedia, dependencies, and sensitive files.
 
-Token Strategy Layer
+- *Token Strategy Layer*
 Soporta estimación rápida y conteo preciso mediante Tiktoken (WASM), con selección dinámica según modelo de IA.
 
-🔗 Repository: hxcCoder/context-packer
+🔗 **Repository**: hxcCoder/context-packer
 ## Technical Stack
 
 **Backend & APIs:**  
