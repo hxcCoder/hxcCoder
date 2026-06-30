@@ -1,5 +1,5 @@
 # Hi, I'm Benjamin 
-**Backend Developer | Scalable Systems • Security • Event-Driven Architectures**
+**Backend Developer | RESTful APIs • Data Modeling • Security**
 
 Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I focus on clean architecture, security, and automated workflows.
 
@@ -10,39 +10,22 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 
 ## Featured Projects
 
-### SentinelLab | Security Event Processing Engine
-*A security-focused backend platform inspired by SIEM systems for threat detection and operational security workflows.*
+### SaaS Ticket API | Modular Ticketing & Workflow Backend
+*Robust RESTful API designed to manage support tickets, state transitions, and organizational workflows securely.*
 
-- **Tech:** FastAPI, PostgreSQL, SQLAlchemy Async, Docker
-
-- **Related Modules:**  
-  [Workflow & Audit Engine](https://github.com/hxcCoder/saas-ticket-backend) — Operational workflow backend with immutable audit logging and execution state management.
+- **Tech:** Node.js, TypeScript, Express, PostgreSQL, Prisma ORM, Jest
 
 - **Highlights:**
-  - Built a detection engine with rule-based alerts and immutable audit logs.
-  - Implemented RBAC with JWT refresh rotation for secure access.
-  - Designed asynchronous backend flows for event processing and operational traceability.
-  - Developed milestone-based architecture planning focused on backend security engineering.
-  - *Focus:* Auditability, defensive backend systems and operational security workflows.
+  - Designed and developed a modular REST API focusing on clean separation of concerns (Controllers, Services, Repositories).
+  - Implemented secure state transitions for workflow executions, ensuring data integrity through relational database transactions.
+  - Built a resilient internal audit system to reliably track ticket history and background events.
+  - Ensured API reliability and prevented regressions through comprehensive unit and integration testing.
+  - *Focus:* Creating a maintainable, fully tested, and structurally sound foundation for B2B SaaS applications.
 
-- 🔗 **Repository:** [hxcCoder/SentinelLab](https://github.com/hxcCoder/SentinelLab)
-
+- **Repository:** [hxcCoder/saas-ticket-backend](https://github.com/hxcCoder/saas-ticket-backend)
+- 
 ---
 
-### LogisParse | Intelligent Document Verification Platform
-*AI-assisted document verification platform focused on administrative and tax-related workflows.*
-
-- **Tech:** FastAPI, PostgreSQL, SQLAlchemy Async, OpenAI Structured Outputs, Docker
-
-- **Highlights:**
-  - Built a hybrid document processing pipeline combining local validation and AI-assisted verification.
-  - Implemented PDF and image extraction workflows with structured data normalization.
-  - Designed a lightweight modular monolith architecture optimized for low-cost deployment.
-  - Developed traceable document status flows for validation and operational review.
-  - *Focus:* Reducing repetitive manual validation in logistics and administrative processes.
-
- - 🔗 **Repository:** [hxcCoder/LogisParse](https://github.com/hxcCoder/LogisParse)
----
 ### Context Packer | Repository-to-LLM Context CLI
 *Repository packager optimized for Language Models (GPT, Claude, Gemini, DeepSeek). Converts entire codebases into a single structured file ready for AI consumption.*
 
@@ -75,7 +58,7 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Architecture & Security:**  
-`Clean Architecture` `DDD` `CQRS` `Event-Driven Systems` `JWT` `RBAC` `OAuth 2.0` `Audit Logs`
+`RESTful APIs` `MVC` `Unit & Integration Testing` `Relational Data Modeling` `JWT` `RBAC` `OAuth 2.0`
 
 **DevOps & Automation:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
