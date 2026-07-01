@@ -23,6 +23,20 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
   - *Focus:* Creating a maintainable, fully tested, and structurally sound foundation for B2B SaaS applications.
 
 - **Repository:** [hxcCoder/saas-ticket-backend](https://github.com/hxcCoder/saas-ticket-backend)
+- 
+### SaaS Ticket API | Modular Ticketing & Workflow Backend
+*Robust RESTful API designed to manage support tickets, state transitions, and organizational workflows securely.*
+
+- **Tech:** Node.js, TypeScript, Express, PostgreSQL, Prisma ORM, Jest
+
+- **Highlights:**
+  - Designed and developed a modular REST API focusing on clean separation of concerns (Controllers, Services, Repositories).
+  - Implemented secure state transitions for workflow executions, ensuring data integrity through relational database transactions.
+  - Built a resilient internal audit system to reliably track ticket history and background events.
+  - Ensured API reliability and prevented regressions through comprehensive unit and integration testing.
+  - *Focus:* Creating a maintainable, fully tested, and structurally sound foundation for B2B SaaS applications.
+
+- **Repository:** [hxcCoder/saas-ticket-backend](https://github.com/hxcCoder/saas-ticket-backend)
 
 ---
 
