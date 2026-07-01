@@ -10,21 +10,24 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 
 ## Featured Projects
 
-### SaaS Ticket API | Modular Ticketing & Workflow Backend
-*Robust RESTful API designed to manage support tickets, state transitions, and organizational workflows securely.*
+## Ticket Management Core | Secure B2B Support API
+*Robust RESTful API built from scratch to handle support tickets with strict Role-Based Access Control and automated testing.*
 
-- **Tech:** Node.js, TypeScript, Express, PostgreSQL, Prisma ORM, Jest
+**Tech:** Node.js, TypeScript, Express, PostgreSQL, Prisma ORM, Zod, Jest, Supertest
 
-- **Highlights:**
-  - Diseñé una API REST modular con separación clara de capas (Routes, Controllers, Services) para facilitar el mantenimiento y la escalabilidad.
-  - Implementé autenticación JWT y un sistema de control de acceso basado en roles (CUSTOMER, AGENT, ADMIN) con middlewares reutilizables (`isAuth` y `hasRole`).
-  - Centralicé la validación de datos con Zod y un middleware `validateRequest` que aplica esquemas de forma consistente en `body`, `query` y `params`.
-  - Construí un manejador global de errores que unifica respuestas para errores operacionales (`AppError`), validaciones de Zod y fallos inesperados, con trazabilidad en desarrollo.
-  - Desarrollé un servicio de tickets que filtra automáticamente los resultados según el rol del usuario (clientes ven solo sus tickets; agentes y administradores ven todos), garantizando visibilidad controlada.
-  - Aseguré la calidad del código con pruebas unitarias y de integración, utilizando `jest-mock-extended` para simular Prisma y los middlewares de autenticación, logrando pruebas aisladas y confiables.
-  - Incluí un endpoint de health check (`/health`) y manejo de rutas 404, preparando la API para entornos de producción y monitoreo con balanceadores de carga.
-  - 
-- **Repository:** [hxcCoder/saas-ticket-backend](https://github.com/hxcCoder/saas-ticket-backend)
+**Highlights:**
+
+- Architected a clean 3-layer design (Routes, Controllers, Services) to strictly decouple business logic from the HTTP transport layer, ensuring maintainability.
+
+- Implemented a robust Role-Based Access Control (RBAC) system using custom JWT middlewares (isAuth, hasRole) to securely isolate customer data and agent workflows.
+
+- Engineered a centralized global error-handling pipeline integrated with Zod for strict request validation, preventing unexpected crashes and standardizing API responses.
+
+- Ensured API reliability by treating testing as a first-class citizen, building a comprehensive unit and integration test suite using Jest and mocking the Prisma database.
+
+**Focus:** Demonstrating production-ready backend fundamentals—secure routing, strict typing, data validation, and testable business logic without overengineering.
+
+**Repository:** [hxcCoder/ticket-management-api](https://github.com/hxcCoder/ticket-managemente-api)
 
 ### SaaS Ticket API | Modular Ticketing & Workflow Backend
 *Robust RESTful API designed to manage support tickets, state transitions, and organizational workflows securely.*
