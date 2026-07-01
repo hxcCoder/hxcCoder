@@ -28,9 +28,9 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 ### SaaS Ticket API | Modular Ticketing & Workflow Backend
 *Robust RESTful API designed to manage support tickets, state transitions, and organizational workflows securely.*
 
-- **Tech:** Node.js, TypeScript, Express, PostgreSQL, Prisma ORM, Jest
+**Tech:** Node.js, TypeScript, Express, PostgreSQL, Prisma ORM, Jest
 
-- **Highlights:**
+**Highlights:**
   - Designed and developed a modular REST API focusing on clean separation of concerns (Controllers, Services, Repositories).
   - Implemented secure state transitions for workflow executions, ensuring data integrity through relational database transactions.
   - Built a resilient internal audit system to reliably track ticket history and background events.
@@ -46,7 +46,7 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 
 **Tech**: Node.js, TypeScript, Streams, Tiktoken (WASM), Commander, Inquirer
 
-- **Highlights**:
+**Highlights**:
   - *Zero-RAM Processing (O(1))*: Process large repositories using fs.opendir and native streams without loading the entire project into memory. 
   - *Atomic Output Safety: Generate*: output in a temporary file and only perform a final commit if the process finishes successfully.
   - *Interrupt Handling (CTRL+C)*: Reactive cancellation system with stream cleaning and temporary file rollback.
