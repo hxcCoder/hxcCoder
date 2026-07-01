@@ -16,13 +16,9 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 **Tech:** Node.js, TypeScript, Express, PostgreSQL, Prisma ORM, Zod, Jest, Supertest
 
 **Highlights:**
-
 - Architected a clean 3-layer design (Routes, Controllers, Services) to strictly decouple business logic from the HTTP transport layer, ensuring maintainability.
-
 - Implemented a robust Role-Based Access Control (RBAC) system using custom JWT middlewares (isAuth, hasRole) to securely isolate customer data and agent workflows.
-
 - Engineered a centralized global error-handling pipeline integrated with Zod for strict request validation, preventing unexpected crashes and standardizing API responses.
-
 - Ensured API reliability by treating testing as a first-class citizen, building a comprehensive unit and integration test suite using Jest and mocking the Prisma database.
 
 **Focus:** Demonstrating production-ready backend fundamentals—secure routing, strict typing, data validation, and testable business logic without overengineering.
