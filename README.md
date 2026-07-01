@@ -25,6 +25,8 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 
 **Repository:** [hxcCoder/ticket-management-api](https://github.com/hxcCoder/ticket-managemente-api)
 
+---
+
 ### SaaS Ticket API | Modular Ticketing & Workflow Backend
 *Robust RESTful API designed to manage support tickets, state transitions, and organizational workflows securely.*
 
