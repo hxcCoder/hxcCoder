@@ -16,12 +16,14 @@ Building platforms with Node.js, TypeScript, Python, PostgreSQL, and Docker. I f
 - **Tech:** Node.js, TypeScript, Express, PostgreSQL, Prisma ORM, Jest
 
 - **Highlights:**
-  - Designed and developed a modular REST API focusing on clean separation of concerns (Controllers, Services, Repositories).
-  - Implemented secure state transitions for workflow executions, ensuring data integrity through relational database transactions.
-  - Built a resilient internal audit system to reliably track ticket history and background events.
-  - Ensured API reliability and prevented regressions through comprehensive unit and integration testing.
-  - *Focus:* Creating a maintainable, fully tested, and structurally sound foundation for B2B SaaS applications.
-
+  - Diseñé una API REST modular con separación clara de capas (Routes, Controllers, Services) para facilitar el mantenimiento y la escalabilidad.
+  - Implementé autenticación JWT y un sistema de control de acceso basado en roles (CUSTOMER, AGENT, ADMIN) con middlewares reutilizables (`isAuth` y `hasRole`).
+  - Centralicé la validación de datos con Zod y un middleware `validateRequest` que aplica esquemas de forma consistente en `body`, `query` y `params`.
+  - Construí un manejador global de errores que unifica respuestas para errores operacionales (`AppError`), validaciones de Zod y fallos inesperados, con trazabilidad en desarrollo.
+  - Desarrollé un servicio de tickets que filtra automáticamente los resultados según el rol del usuario (clientes ven solo sus tickets; agentes y administradores ven todos), garantizando visibilidad controlada.
+  - Aseguré la calidad del código con pruebas unitarias y de integración, utilizando `jest-mock-extended` para simular Prisma y los middlewares de autenticación, logrando pruebas aisladas y confiables.
+  - Incluí un endpoint de health check (`/health`) y manejo de rutas 404, preparando la API para entornos de producción y monitoreo con balanceadores de carga.
+  - 
 - **Repository:** [hxcCoder/saas-ticket-backend](https://github.com/hxcCoder/saas-ticket-backend)
 
 ### SaaS Ticket API | Modular Ticketing & Workflow Backend
